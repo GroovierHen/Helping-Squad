@@ -1,0 +1,10 @@
+.linkStyle{
+    text-decoration:none !important
+}
+.bgcolor{
+    transition: background-color 1s;
+    cursor: pointer;
+}
+.bgcolor:hover{
+    background-color: grey;
+}

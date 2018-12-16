@@ -1,0 +1,8 @@
+.client{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+.cards{
+    flex: 1;
+}

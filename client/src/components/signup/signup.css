@@ -1,0 +1,44 @@
+body
+{
+	background: #f5f5f5;
+}
+
+h5
+{
+	font-weight: 400;
+}
+
+.containerSignup
+{
+	margin-top: 80px !important;
+	width: 400px !important;
+	max-height:725px !important;
+}
+
+.tabs .indicator
+{
+	background-color: #e0f2f1;
+	height: 60px;
+	opacity: 0.3;
+}
+
+.form-container
+{
+	padding: 40px;
+	padding-top: 10px;
+}
+
+.confirmation-tabs-btn
+{
+	position: absolute;
+}
+.second-radio{
+	margin-left: 20%;
+}
+.formControlSelect{
+	width: 335px;
+}
+.row .input-field input:focus {
+	border-bottom: 1px solid #1a0dab !important;
+	box-shadow: 0 1px 0 0 #1a0dab !important
+}
